@@ -1,0 +1,21 @@
+.para{
+    background-color: rgb(137, 168, 168);
+   
+    padding: 5px;
+    border-radius: 2px;
+    height: 50px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+
+  
+
+}
+textarea{
+    height: 150px;
+    width: 450px;
+    margin-top: 20px;
+   
+
+}
